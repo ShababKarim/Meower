@@ -1,0 +1,14 @@
+.title {
+    text-align: center;
+}
+.input{
+    width: 300px;
+    margin: 0 auto;
+}
+#padder{
+    margin-bottom: 10px;
+}
+.loading {
+    width: 50%;
+    margin: 0 auto;
+}
